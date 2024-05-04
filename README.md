@@ -1,3 +1,5 @@
+## NB: this is an improved version of BRlkl/AGI-Samantha project.
+
 ## Samantha from the movie Her is here: 
 
 An autonomous agent for conversations capable of freely thinking and speaking, continuously. Creating an unparalleled sense of realism and dynamicity.
@@ -61,5 +63,5 @@ Think of a thing that the human mind can do that LLM "Cannot", then implement it
 
 But most importantly: Smaller models each trained specifically to do the job of one of the modules will greatly increase quality, and decrease cost and latency.
 
-Contact: 
-pedroschindler964@gmail.com
+Credits for the original project: 
+[https://github.com/BRlkl/AGI-Samantha](https://github.com/BRlkl/AGI-Samantha)
